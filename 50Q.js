@@ -338,7 +338,7 @@ if(start++ === 0) return false;}
 function startsWith (str, char){
 
   var start = str.indexOf(char);
-if(start++ === 0) return false;}
+if(start++ === 0) return false;}  
 function startsWith (str, char){
 
   var start = str.indexOf(char);
