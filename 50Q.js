@@ -292,12 +292,67 @@ function sumArray(arr){
 
     var start = str.indexOf(char);
   if(start++ === 0) return false;}
+
 // Q-45 write a function to find the maximum of two numbers
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
+
+
 // Q-46 create a function that takes a number and returns its factorial
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
 // Q-47 write a function that accepts a string and returns its reverse 
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
 // Q-48 create a function to find the largest number in an array
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
 // Q-49 write a function that converts a string to kebab-case (eg. "hello sanju" -> "hello sanju").
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
 // Q-50 create a function that logs "hello","sanjana!" every time it is called 
+function startsWith (str, char){
+
+  var start = str.indexOf(char);
+if(start++ === 0) return false;}
 
 
 
